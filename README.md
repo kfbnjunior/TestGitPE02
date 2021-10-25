@@ -1,2 +1,2 @@
 # TestGitPE02
-Testing oni #fullsd
+My first github exercise
